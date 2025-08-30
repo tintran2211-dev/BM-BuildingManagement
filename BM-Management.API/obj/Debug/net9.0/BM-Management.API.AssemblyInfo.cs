@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BM-Management.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955bfd935097ec5b885579b4daf1c8771d473e9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7f74abd2ae1a99fab4e564968d53f953a3850c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BM-Management.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BM-Management.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

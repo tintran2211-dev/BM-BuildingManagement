@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BM-Management.API", "BM-Management.API\BM-Management.API.csproj", "{8084C169-CA97-47A8-962F-3D3BE7A23A9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BM-Management.Application", "BM-Management.Application\BM-Management.Application.csproj", "{4531077F-0AB1-4F94-9447-7B31EE8F71E8}"
@@ -13,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BM-Management.Domain", "BM-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BM-Management.Infrastructure", "BM-Management.Infrastructure\BM-Management.Infrastructure.csproj", "{5FC8CAF7-2808-4388-9AAC-2AA44BC4FC17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4C58C062-9866-475F-BC6D-D740FB15172D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "core\Core\Core.csproj", "{80AC2C96-8E26-40BA-98AE-DFA7616DF23D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,16 +37,16 @@ Global
 		{5FC8CAF7-2808-4388-9AAC-2AA44BC4FC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FC8CAF7-2808-4388-9AAC-2AA44BC4FC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FC8CAF7-2808-4388-9AAC-2AA44BC4FC17}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C58C062-9866-475F-BC6D-D740FB15172D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C58C062-9866-475F-BC6D-D740FB15172D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C58C062-9866-475F-BC6D-D740FB15172D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C58C062-9866-475F-BC6D-D740FB15172D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AC2C96-8E26-40BA-98AE-DFA7616DF23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AC2C96-8E26-40BA-98AE-DFA7616DF23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AC2C96-8E26-40BA-98AE-DFA7616DF23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AC2C96-8E26-40BA-98AE-DFA7616DF23D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4C58C062-9866-475F-BC6D-D740FB15172D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{80AC2C96-8E26-40BA-98AE-DFA7616DF23D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D7D3F705-D030-4E57-B356-FC46858A6903}

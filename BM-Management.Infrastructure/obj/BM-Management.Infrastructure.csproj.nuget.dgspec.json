@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CodeVM\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj": {}
+    "C:\\Users\\Development\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CodeVM\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj": {
+    "C:\\Users\\Development\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CodeVM\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Development\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj",
         "projectName": "BM-Management.Infrastructure",
-        "projectPath": "C:\\Users\\CodeVM\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\CodeVM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CodeVM\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Development\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\BM-Management.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Development\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Development\\Desktop\\BM-BuildingManagement\\BM-Management.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CodeVM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Development\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
